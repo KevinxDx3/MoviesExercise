@@ -1,6 +1,31 @@
-# Movies App made in Flutter with api data from TMDB
+# INTEGRANTES:
 
-This is an app that displays you details of movies that you can search for or browse.<br>
+-Kevin Moreno
+-Roberto Chacon
+
+# CAPTURAS PROGRAMA
+
+![image](https://github.com/KevinxDx3/MoviesExercise/assets/85362446/7c432793-f111-41de-99a0-15eae4391f3d)
+
+android:
+
+![image](https://github.com/KevinxDx3/MoviesExercise/assets/85362446/6ad18a6e-b067-4e64-aeb5-8cc69b736b19)
+
+
+## Log in
+
+![image](https://github.com/KevinxDx3/MoviesExercise/assets/85362446/4834b49b-b95c-40c4-92b6-85785ef917d1)
+
+android:
+
+![image](https://github.com/KevinxDx3/MoviesExercise/assets/85362446/ffb9bbac-65f7-4c7a-83c7-cd86d653e093)
+
+
+
+
+
+# Aplicacion de peliculas que usa Api y flutter
+
 
 ## Features :
 

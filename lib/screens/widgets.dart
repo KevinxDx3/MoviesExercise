@@ -40,7 +40,7 @@ class _DiscoverMoviesState extends State<DiscoverMovies> {
             Padding(
               padding: const EdgeInsets.all(8.0),
               child:
-                  Text('ROBERTO CHACÓN, KEVIN MORENO, OMAR GUACHAMIN', style: widget.themeData.textTheme.headline5),
+                  Text('ROBERTO CHACÓN, KEVIN MORENO', style: widget.themeData.textTheme.headline5),
             ),
           ],
         ),
